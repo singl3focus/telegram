@@ -125,8 +125,8 @@
 * [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
 * [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft для разработчиков и всех, кто интересуется новыми технологиям
 * [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
-* [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
-* [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
+* [#CoolAdmin](https://t.me/cooladmin) — Канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
+* [R0 Crew](https://t.me/R0_Crew) — Сообщество реверс-инженеров.
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
@@ -137,6 +137,12 @@
 * [Deep Digital](https://t.me/deepdigital) — Канал команды разработки группы Chulakov Digital. Советы по Frontend- и Backend-разработке web-сервисов, статьи, презентации и многое другое.
 * [Personal junior](https://t.me/vadim_junior) — Глупые вопросы от джуна (все как в реальной жизни).
 * [Go](https://t.me/golang) — Канал с новостями и интересными материалами про Golang. (преимущественно english)
+* [Gopher Club](https://t.me/+zsSZ63wEJDs3NGVi) — Сообщество Go разработичков: "Обсуждаем Go и разработку в целом.". 
+* [Golang Go](https://t.me/golangl) — Сообщество Go разработичков. 
+* [Go-Go!](https://t.me/gogolang) — Сообщество Go разработичков.
+* [SPb Go](https://t.me/goleningrad) — Сообщество Go разработичков в Санкт-Петербурге.
+* [Rust Lang Beginners](https://t.me/rust_beginners_ru) — Сообщество начинающих Rust разработичков: "Для новичковых вопросов по языку Rust".
+* [Rust RU](https://t.me/rustlang_ru) — Сообщество Rust разработичков.
 * [TechRocks](https://t.me/techrocks) — Канал про кодинг и сопутствующее. Создан инженерами для инженеров.
 * [Android Developers](https://t.me/androiddeveu) — Статьи, туториалы, видео и новости для Андроид разработчиков. Ссылки на конференции,  трансляции интересных событий.
 * [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
